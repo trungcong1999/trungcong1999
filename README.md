@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trungcong1999&show_icons=true&locale=en&layout=compact" alt="trungcong1999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trungcong1999&show_icons=true&locale=en" alt="trungcong1999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trungcong1999&" alt="mirzaazmath" /></p>
